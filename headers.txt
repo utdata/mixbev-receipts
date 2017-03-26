@@ -1,0 +1,1 @@
+TABC Permit Number,Trade Name,Location Address,Location City,Location State,Location Zip Code,Location County Code,Blank,Report Period,Report Tax
