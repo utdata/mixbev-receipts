@@ -1,6 +1,18 @@
 Mixed Beverage Receipts Lesson
 =============================
 
+
+## Rework
+
+THIS DATA SET IS BEING REWORKED BASED ON NEW DATA BY THE COMPTROLLER ON DATA.TEXAS.GOV
+
+The comptroller now stores 10 years worth of [Mixed Beverage Gross Receipts](https://data.texas.gov/Government-and-Taxes/Mixed-Beverage-Gross-Receipts/naix-2893) data on the [Texas' Socrata portal](https://data.texas.gov).
+
+- I'll first rework this on the new data layout using downloaded data.
+- I'll then try to use the Socrata API to pull the data we need.
+
+## From before
+
 This repository is a lesson in a repeatable, transparent data pipeline using Jupyter Notebooks and the Python package called [agate](http://agate.readthedocs.io/).
 
 It uses a `conda` virtual environment.
